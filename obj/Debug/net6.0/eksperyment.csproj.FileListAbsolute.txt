@@ -1,0 +1,15 @@
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\bin\Debug\net6.0\eksperyment.exe
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\bin\Debug\net6.0\eksperyment.deps.json
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\bin\Debug\net6.0\eksperyment.runtimeconfig.json
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\bin\Debug\net6.0\eksperyment.dll
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\bin\Debug\net6.0\eksperyment.pdb
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.csproj.AssemblyReference.cache
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.AssemblyInfoInputs.cache
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.dll
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\refint\eksperyment.dll
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.pdb
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\eksperyment.genruntimeconfig.cache
+C:\Users\Wojtek\source\repos\eksperyment\eksperyment\obj\Debug\net6.0\ref\eksperyment.dll
